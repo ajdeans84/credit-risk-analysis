@@ -9,9 +9,34 @@ The algorithms used for this project include RandomOverSampler, SMOTE, ClusterCe
 //Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all six machine learning models. Use screenshots of your outputs to support your results.
 
 - RandomOverSampler:
-    - Accuracy:
-    - Precision:
-    - Recall: 
+    - Accuracy: 64.6%
+    - Precision: 0.99%
+    - Recall: 71.3%
+
+- SMOTE:
+    - Accuracy: 65.9%
+    - Precision: 1.2%
+    - Recall: 63.4%
+
+- ClusterCentroids:
+    - Accuracy: 66.7%
+    - Precision: 0.67%
+    - Recall: 69.3%
+
+- SMOTEENN:
+    - Accuracy: 54.4%
+    - Precision: 1.1%
+    - Recall:  73.3%
+
+- BalancedRandomForestClassifier:
+    - Accuracy: 78.9%
+    - Precision: 3.2%
+    - Recall: 70.3%
+
+- EasyEnsembleClassifier:
+    - Accuracy: 93.1%
+    - Precision: 8.6%
+    - Recall: 92.1%
 
 
 ## Summary
