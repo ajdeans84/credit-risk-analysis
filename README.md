@@ -12,31 +12,37 @@ The algorithms used for this project include RandomOverSampler, SMOTE, ClusterCe
     - Accuracy: 64.6%
     - Precision: 0.99%
     - Recall: 71.3%
+![ros](Images/ros.png)
 
 - SMOTE:
     - Accuracy: 65.9%
     - Precision: 1.2%
     - Recall: 63.4%
+![smote](Images/smote.png)
 
 - ClusterCentroids:
     - Accuracy: 66.7%
     - Precision: 0.67%
     - Recall: 69.3%
+![cluster](Images/cluster.png)
 
 - SMOTEENN:
     - Accuracy: 54.4%
     - Precision: 1.1%
     - Recall:  73.3%
+![smoteenn](Images/smoteenn.png)
 
 - BalancedRandomForestClassifier:
     - Accuracy: 78.9%
     - Precision: 3.2%
     - Recall: 70.3%
+![forest](Images/forest.png)
 
 - EasyEnsembleClassifier:
     - Accuracy: 93.1%
     - Precision: 8.6%
     - Recall: 92.1%
+![easy](Images/easy.png)
 
 
 ## Summary
